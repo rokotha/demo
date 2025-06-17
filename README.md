@@ -1,3 +1,3 @@
 # DEMO
 
-This is a Demo of Github
+This is a Demo of Github!
